@@ -1,0 +1,67 @@
+[
+  {
+    "name" : "Sun",
+    "radius" : 80,
+    "mass" : 1.9885E30,
+    "velocity" : {
+      "x" : 0.0,
+      "y" : 0.0
+    },
+    "position" : {
+      "x" : 0.0,
+      "y" : 0.0
+    }
+  },
+  {
+    "name" : "Mercury",
+    "radius" : 5,
+    "mass" : 3.302E23,
+    "velocity" : {
+      "x" : 0.0,
+      "y" : 47362.0
+    },
+    "position" : {
+      "x" : -5.834316969E10,
+      "y" : 0.0
+    }
+  },
+  {
+    "name" : "Venus",
+    "radius" : 10,
+    "mass" : 4.8685E24,
+    "velocity" : {
+      "x" : 0.0,
+      "y" : -35021.0
+    },
+    "position" : {
+      "x" : 1.0771046712E11,
+      "y" : 0.0
+    }
+  },
+  {
+    "name" : "Earth",
+    "radius" : 10,
+    "mass" : 5.97219E24,
+    "velocity" : {
+      "x" : 0.0,
+      "y" : 29790.0
+    },
+    "position" : {
+      "x" : -1.49597871E11,
+      "y" : 0.0
+    }
+  },
+  {
+    "name" : "Mars",
+    "radius" : 7,
+    "mass" : 6.417099999999999E23,
+    "velocity" : {
+      "x" : 0.0,
+      "y" : -24130.0
+    },
+    "position" : {
+      "x" : 2.2738876392E11,
+      "y" : 0.0
+    }
+  }
+]

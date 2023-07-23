@@ -1,0 +1,7 @@
+*.class
+.bsp
+.idea
+project/target
+target/
+progress_log
+Ohjelmointistudio2_projektin_dokumentaatio.pdf
